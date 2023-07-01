@@ -2,6 +2,12 @@
 /* Your CSS Code here. */
 .holder{
 	display:flex;
+	width:500px;
 	flex-direction:row;
 	flex-wrap:wrap;
+	justify-content:space-evenly;
+}
+.one{
+	width:150px;
+/* 	padding:10px; */
 }
